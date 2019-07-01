@@ -1,0 +1,2 @@
+# ScalaNotes
+Scala learning notes
